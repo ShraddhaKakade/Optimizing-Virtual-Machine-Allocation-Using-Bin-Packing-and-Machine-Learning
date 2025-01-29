@@ -1,4 +1,4 @@
-# Optimizing-Virtual-Machine-Allocation-Using-Bin-Packing-and-Machine-Learning
+# Optimizing Virtual Machine Allocation Using Bin Packing and Machine Learning
 
 ### 1.	File Structure
 
