@@ -60,12 +60,19 @@ Server capacities for general purpose are defined as follows:
 #### •	Input:
 
 1.	vm Table:
+   
 a.	vmId: Unique ID of the VM.
+
 b.	vmTypeId: Type of the VM (links to vmType table).
+
 c.	starttime: Start time of the VM.
+
 d.	endtime: End time of the VM (optional).
+
 2.	vmType Table:
+   
 a.	vmTypeId: Unique ID of the VM type.
+
 b.	core, memory, ssd, nic: Resource requirements for CPU cores, memory (GB), SSD (GB), and NIC bandwidth (Gbps).
 
 #### •	Output:
